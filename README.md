@@ -1,3 +1,3 @@
 # mre-biome-console-arrow-expression
 
-MRE for TODO
+MRE for https://github.com/biomejs/biome/issues/5381
